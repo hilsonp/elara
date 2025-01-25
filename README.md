@@ -1,6 +1,6 @@
 # Elara
 
-An anonymizer/de-anonymizer for LLMs.
+A simple tool for anonymizing LLM prompts.
 
 Uses [urchade/gliner_multi_pii-v1](https://huggingface.co/urchade/gliner_multi_pii-v1) for named entity recognition (NER).
 
