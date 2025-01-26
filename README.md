@@ -52,3 +52,4 @@ cd sveltekit && npm i && npm run dev
 5. Paste the anonymized text into an LLM of your choice, and generate a response.
 6. Copy the LLM's response and paste it into the "ANONYMIZED LLM RESPONSE" textarea.
 7. The "DE-ANONYMIZED TEXT" card will show the de-anonymized version of the LLM's response, which you can copy and use as needed.
+8. If you'd like to modify any labels, please add or remove lines from `labels.txt` in the project's root. 
